@@ -1,0 +1,4 @@
+201,19,Wei,Liu,Zhang,Liu,1011,3.7
+202,20,Aarav,Patel,Rajesh,Patel,1002,3.9
+208,22,James,Brown,Robert,Brown,1018,3.5
+209,19,Sophia,Chen,Guang,Chen,1009,3.6
